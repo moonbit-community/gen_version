@@ -1,1 +1,0 @@
-# moonbit-community/gen_version
