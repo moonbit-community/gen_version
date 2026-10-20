@@ -11,7 +11,7 @@
 
 name = "moonbit-community/gen_version"
 
-version = "0.0.1"
+version = "0.0.2"
 
 readme = "README.mbt.md"
 
@@ -21,7 +21,7 @@ license = "Apache-2.0"
 
 keywords = [ "codegen", "version" ]
 
-preferred_target = "native"
+preferred_target = "wasm"
 
 description = "Generate a MoonBit `MODULE_VERSION` constant from the version in `moon.mod`"
 

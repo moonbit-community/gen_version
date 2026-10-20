@@ -6,6 +6,6 @@ import {
   "moonbitlang/x/sys",
 }
 
-supported_targets = "native"
+supported_targets = "wasm+native"
 
 pkgtype(kind: "executable")
