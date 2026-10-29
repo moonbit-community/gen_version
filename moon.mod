@@ -27,6 +27,6 @@ description = "Generate a MoonBit `MODULE_VERSION` constant from the version in 
 
 import {
   "moonbitlang/async@0.22.4",
-  "moonbitlang/moon_config@0.4.2",
+  "moonbitlang/moon_config@0.4.5",
   "moonbitlang/x@0.5.5",
 }
